@@ -105,4 +105,6 @@ Para dudas o incidencias:
   ```
 ## 🎞 Captura y explicación
 ![Captura prueba de tuberías](PruebaPipes.png)
+Como podemos ver, se ha ejecutado java -jar LectorTexto.jar para mostrar el texto y comprobar dos cosas: que funcione el programa lectorTexto y por otro lado que filtraLineas haga su función, ya que como podemos ver filtra correctamente las lineas de más de 20 caracteres y con el programa contadorPalabras cuenta sólo las palabras de las líneas que tiene más de 20 caracteres, en este caso 14 palabras. 
+
   ```
