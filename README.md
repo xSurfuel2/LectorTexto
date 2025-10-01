@@ -9,7 +9,7 @@ Este proyecto se compone de tres aplicaciones Java independientes que se pueden 
 3. **contadorPalabras**
 
 El objetivo es:
-- Leer un archivo de texto.
+- Leer un archivo de texto. (Este archivo se puede encontrar en la carpeta resources/entrada.txt del proyecto filtraLineas)
 - Filtrar líneas según su longitud.
 - Contar el número total de palabras.
 
@@ -102,3 +102,8 @@ Capturas de pantalla deben incluir:
 Para dudas o incidencias:
 - Correo: ejemplo@correo.com
 - GitHub: [xSurfuel2](https://github.com/xSurfuel2)
+
+  ```
+  <img width="1075" height="589" alt="PruebaPipes" src="https://github.com/user-attachments/assets/e5ba2894-71a7-43fc-873e-b872d1c5d9b2" />
+
+  ```
