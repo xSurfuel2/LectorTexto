@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>LectorTexto.Main</mainClass>
+                            <mainClass>org.example.LectorTexto</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
