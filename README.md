@@ -100,7 +100,7 @@ Para dudas o incidencias:
 ## 🎞 Captura y explicación
 ![Captura prueba de tuberías](PruebaPipes.png)
 
-Para lanzar el programa accedemos a la carpeta donde tenemos los 3 .jar y en la ruta escribimos cmd y pulsamos enter para lanzar la consola, usando el código:
+Para lanzar el programa accedemos a la carpeta donde tenemos los 3 .jar (dentro del proyecto LectorTexto en la carpeta target) y en la ruta escribimos cmd y pulsamos enter para lanzar la consola, usando el código:
 - **java -jar lectorTexto.jar entrada.txt | java -jar filtraLineas.jar | java -jar contadorPalabras.jar**
   
 Podemos comprobar varias cosas: 
