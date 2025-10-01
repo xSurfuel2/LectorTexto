@@ -104,5 +104,5 @@ Para dudas o incidencias:
 
   ```
 ## 🎞 Captura y explicación
-[Captura prueba de tuberías](PruebaPipes.png)
+![Captura prueba de tuberías](PruebaPipes.png)
   ```
