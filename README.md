@@ -92,12 +92,6 @@ Capturas de pantalla deben incluir:
 - Salida final de `contadorPalabras`
 - Ejecución completa de la tubería
 
-## 🌟 Consejos para buena nota
-- Asegúrate de que la ejecución produce el resultado esperado.
-- Evita interbloqueos o inanición; cada proceso debe leer/escribir correctamente.
-- Documenta las pruebas con capturas claras.
-- Explica el flujo de datos y la función de cada programa.
-
 ## 📌 Contacto
 Para dudas o incidencias:
 - GitHub: [xSurfuel2](https://github.com/xSurfuel2)
@@ -105,6 +99,6 @@ Para dudas o incidencias:
   ```
 ## 🎞 Captura y explicación
 ![Captura prueba de tuberías](PruebaPipes.png)
-Como podemos ver, se ha ejecutado java -jar LectorTexto.jar para mostrar el texto y comprobar dos cosas: que funcione el programa lectorTexto y por otro lado que filtraLineas haga su función, ya que como podemos ver filtra correctamente las lineas de más de 20 caracteres y con el programa contadorPalabras cuenta sólo las palabras de las líneas que tiene más de 20 caracteres, en este caso 14 palabras. 
-
+Como podemos ver, se ha ejecutado java -jar LectorTexto.jar para mostrar el texto y comprobar varias cosas: 
+-Que funcione el programa lectorTexto y por otro lado que filtraLineas haga su función, ya que como podemos ver filtra correctamente las lineas de más de 20 caracteres y con el programa contadorPalabras cuenta sólo las palabras de las líneas que tiene más de 20 caracteres, en este caso 14 palabras. 
   ```
