@@ -100,9 +100,9 @@ Capturas de pantalla deben incluir:
 
 ## 📌 Contacto
 Para dudas o incidencias:
-- Correo: ejemplo@correo.com
 - GitHub: [xSurfuel2](https://github.com/xSurfuel2)
 
   ```
-<img width="1075" height="589" alt="PruebaPipes" src="https://github.com/user-attachments/assets/e5ba2894-71a7-43fc-873e-b872d1c5d9b2" />
+## 🎞 Captura y explicación
+[Captura prueba de tuberías](PruebaPipes.png)
   ```
